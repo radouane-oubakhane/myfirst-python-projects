@@ -25,7 +25,3 @@ This repository contains a collection of my first Python projects
 #### Project 7: Snake-Game
 #### Project 8: Strong-Password-Generator
 #### Project 9: Tic-Tac-Toe Game
-
-# Contributing
-
-This project is intended as a learning exercise and is not actively maintained. However, if you have any suggestions for improvements or would like to contribute to the code, feel free to submit a pull request.
